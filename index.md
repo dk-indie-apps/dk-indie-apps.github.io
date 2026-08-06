@@ -8,6 +8,7 @@ Independent iOS apps built with care.
 - **20 Peas** — Daily gratitude practice as sumi-e brush strokes ([Privacy Policy](/20-peas/privacy/) · [Support](/20-peas/support/))
 - **IQart** — Art quiz: guess the painter from masterpiece paintings ([Privacy Policy](/iqart/privacy/) · [Support](/iqart/support/))
 - **Shlyapa (Шляпа)** — Word-guessing party game in Russian ([Privacy Policy](/shlyapa/privacy/) · [Support](/shlyapa/support/))
+- **Nerpa Tales** — Educational mini-games about ringed seals, for kids and families ([Privacy Policy](/nerpa-tales/privacy/) · [Support](/nerpa-tales/support/))
 
 ---
 
